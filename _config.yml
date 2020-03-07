@@ -281,11 +281,12 @@ sidebar:
 
 
 # Blog rolls
-#links_title: Links
+  links_title: 推荐阅读
 #links_layout: block
-#links_layout: inline
+ links_layout: inline
 #links:
   #Title: http://example.com/
+  清单年： https://shaolingzhong.github.io/foo/2018/12/31/2018%E6%88%91%E7%9A%84%E6%B8%85%E5%8D%95%E5%B9%B4/
 
 
 # ---------------------------------------------------------------
@@ -611,7 +612,7 @@ use_motion: true
 fancybox: true
 
 # Progress bar in the top during page loading.
-pace: false
+pace: true
 # Themes list:
 #pace-theme-big-counter
 #pace-theme-bounce
